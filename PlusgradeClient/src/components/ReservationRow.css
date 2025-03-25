@@ -1,0 +1,9 @@
+.reservation-row {
+    cursor: pointer;
+    background-color: #f9f9f9;
+  }
+  
+  .reservation-cell::before {
+    display: inline-block;
+    width: 1em;
+  }

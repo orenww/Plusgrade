@@ -1,0 +1,17 @@
+.product-row.active {
+    background-color: #d4edda;
+  }
+  
+  .product-row.cancelled {
+    background-color: #f8d7da;
+  }
+  
+  .product-row.default {
+    background-color: #ffffff;
+  }
+  
+  .product-name {
+    padding-left: 30px;
+    font-style: italic;
+  }
+  
